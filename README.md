@@ -53,10 +53,12 @@ The combination of my passion for the gym and for development put together in a 
 Built for a school project with [Siro Bettini](https://github.com/SiroBettini) and [Luca Comolli](https://github.com/lucacomolli).
 
 [**Frontend**](https://github.com/JanRezzonico/WorkouTrackerAPP)
+
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react-native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" />
 
 [**Backend**](https://github.com/JanRezzonico/WorkouTrackerAPI)
+
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
