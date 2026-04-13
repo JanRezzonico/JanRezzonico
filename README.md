@@ -1,9 +1,12 @@
 ## About Me
 
 <div align="center">
-    <a href="mailto:rezzonico.jan@gmail.com">
-        <img src="https://img.shields.io/badge/email%20me-EA4335?style=flat&logo=gmail&logoColor=white" alt="gmail" />
-    </a>
+    <p>
+        Contact me via email at
+        <a href="mailto:jan@rezzonico.dev">
+            jan@rezzonico.dev
+        </a>
+    </p>
 </div>
 
 ## What I'm best at/with
@@ -24,7 +27,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman" />
 </div>
 
 ## Other Knowledge
